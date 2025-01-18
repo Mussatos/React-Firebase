@@ -2,7 +2,17 @@
 
 Utilizando Firebase como Back-End nas funções de:
 
-Banco de Dados;
+Banco de Dados (
+
+  Criação de informações;
+  
+  Listagem de informações;
+  
+  Atualização das informações fornecendo o ID;
+  
+  Deletando informação.
+  
+);
 
 Autenticação de Login e Registro de usuário com Email e Senha;
 
