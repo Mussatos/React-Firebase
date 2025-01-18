@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# ReactJS + Firebase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Utilizando Firebase como Back-End nas funções de:
+Banco de Dados;
+Autenticação de Login e Registro de usuário com Email e Senha;
+Permanência de Login.
+
+
+
 
 ## Available Scripts
 
